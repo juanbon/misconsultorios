@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<markers>
+  <marker>
+    <latitud>-34.5898268000</latitud>
+    <longitud>-58.4075358000</longitud>
+    <nombre_medico>Almada, Horacio Enrique</nombre_medico>
+    <calle>Arenales</calle>
+    <numero>3048</numero>
+    <zona>Ciudad de Buenos Aires</zona>
+    <localidad>Palermo</localidad>
+    <especialidad>Cardiologia</especialidad>
+    <telefono>(011) 4821 -7297</telefono>
+  </marker>
+  <marker>
+    <latitud>-34.6076073000</latitud>
+    <longitud>-58.5140807000</longitud>
+    <nombre_medico>Bon, Aurelio Carmelo Aquiles</nombre_medico>
+    <calle>Marcos Paz</calle>
+    <numero>3478</numero>
+    <zona>Ciudad de Buenos Aires</zona>
+    <localidad>Villa Devoto</localidad>
+    <especialidad>Cardiologia</especialidad>
+    <telefono>(011) 4501-0650</telefono>
+  </marker>
+  <marker>
+    <latitud>-34.5952726000</latitud>
+    <longitud>-58.3990785000</longitud>
+    <nombre_medico>Barrangu, Sandra Cecil</nombre_medico>
+    <calle>Av Santa Fe</calle>
+    <numero>2245</numero>
+    <zona>Ciudad de Buenos Aires</zona>
+    <localidad>Barrio Norte</localidad>
+    <especialidad>Cardiologia</especialidad>
+    <telefono>(011) 4823 - 833</telefono>
+  </marker>
+</markers>
